@@ -1,0 +1,20 @@
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+8c1a5c1ed66a   secondary1   0.45%     219.8MiB / 7.761GiB   2.77%     23.3MB / 12.4MB   43.5MB / 287MB   71
+0010ee040bdc   secondary2   0.46%     220.1MiB / 7.761GiB   2.77%     23.4MB / 12.5MB   37.3MB / 286MB   72
+0e9c59aa7b53   primary      15.30%    300.2MiB / 7.761GiB   3.78%     797MB / 304MB     47.6MB / 115MB   78
+40873b64a8eb   secondary3   0.47%     220.8MiB / 7.761GiB   2.78%     22.1MB / 11.4MB   39.9MB / 287MB   71
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+8c1a5c1ed66a   secondary1   0.43%     219.8MiB / 7.761GiB   2.77%     23.3MB / 12.4MB   43.5MB / 287MB   71
+0010ee040bdc   secondary2   0.46%     220.1MiB / 7.761GiB   2.77%     23.4MB / 12.5MB   37.3MB / 286MB   72
+0e9c59aa7b53   primary      71.72%    300.2MiB / 7.761GiB   3.78%     802MB / 314MB     47.6MB / 115MB   78
+40873b64a8eb   secondary3   0.47%     220.8MiB / 7.761GiB   2.78%     22.1MB / 11.4MB   39.9MB / 287MB   71
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+8c1a5c1ed66a   secondary1   0.77%     219.8MiB / 7.761GiB   2.77%     23.3MB / 12.4MB   43.5MB / 287MB   71
+0010ee040bdc   secondary2   0.89%     220.2MiB / 7.761GiB   2.77%     23.4MB / 12.5MB   37.3MB / 286MB   72
+0e9c59aa7b53   primary      72.92%    300.2MiB / 7.761GiB   3.78%     806MB / 322MB     47.6MB / 115MB   78
+40873b64a8eb   secondary3   0.77%     220.8MiB / 7.761GiB   2.78%     22.1MB / 11.5MB   39.9MB / 287MB   71
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+8c1a5c1ed66a   secondary1   0.61%     219.8MiB / 7.761GiB   2.77%     23.3MB / 12.4MB   43.5MB / 287MB   71
+0010ee040bdc   secondary2   0.56%     220.3MiB / 7.761GiB   2.77%     23.4MB / 12.5MB   37.3MB / 286MB   72
+0e9c59aa7b53   primary      0.68%     300.2MiB / 7.761GiB   3.78%     808MB / 327MB     47.6MB / 115MB   77
+40873b64a8eb   secondary3   0.53%     220.8MiB / 7.761GiB   2.78%     22.1MB / 11.5MB   39.9MB / 287MB   71

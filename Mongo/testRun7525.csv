@@ -1,0 +1,111 @@
+
+#####################################################################
+Running test workload 75/25 try 1
+mongo connection created with mongodb://172.31.29.2:27017/ycsb?w=0
+[OVERALL], RunTime(ms), 3296
+[OVERALL], Throughput(ops/sec), 3033.980582524272
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 43
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 1.3046116504854368
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 43
+[TOTAL_GC_TIME_%], Time(%), 1.3046116504854368
+[READ], Operations, 7529
+[READ], AverageLatency(us), 370.7901447735423
+[READ], MinLatency(us), 139
+[READ], MaxLatency(us), 168831
+[READ], 95thPercentileLatency(us), 800
+[READ], 99thPercentileLatency(us), 1277
+[READ], Return=OK, 7529
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 3307.0
+[CLEANUP], MinLatency(us), 3306
+[CLEANUP], MaxLatency(us), 3307
+[CLEANUP], 95thPercentileLatency(us), 3307
+[CLEANUP], 99thPercentileLatency(us), 3307
+[INSERT], Operations, 2471
+[INSERT], AverageLatency(us), 125.68676649129907
+[INSERT], MinLatency(us), 24
+[INSERT], MaxLatency(us), 4531
+[INSERT], 95thPercentileLatency(us), 500
+[INSERT], 99thPercentileLatency(us), 601
+[INSERT], Return=OK, 2471
+
+#####################################################################
+Running test workload 75/25 try 2
+mongo connection created with mongodb://172.31.29.2:27017/ycsb?w=0
+[OVERALL], RunTime(ms), 3136
+[OVERALL], Throughput(ops/sec), 3188.7755102040815
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 35
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 1.1160714285714286
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 35
+[TOTAL_GC_TIME_%], Time(%), 1.1160714285714286
+[READ], Operations, 7471
+[READ], AverageLatency(us), 328.86708606612234
+[READ], MinLatency(us), 143
+[READ], MaxLatency(us), 13159
+[READ], 95thPercentileLatency(us), 752
+[READ], 99thPercentileLatency(us), 1189
+[READ], Return=OK, 7471
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 2605.0
+[CLEANUP], MinLatency(us), 2604
+[CLEANUP], MaxLatency(us), 2605
+[CLEANUP], 95thPercentileLatency(us), 2605
+[CLEANUP], 99thPercentileLatency(us), 2605
+[INSERT], Operations, 2529
+[INSERT], AverageLatency(us), 196.05812574139975
+[INSERT], MinLatency(us), 26
+[INSERT], MaxLatency(us), 159231
+[INSERT], 95thPercentileLatency(us), 416
+[INSERT], 99thPercentileLatency(us), 515
+[INSERT], Return=OK, 2529
+
+#####################################################################
+Running test workload 75/25 try 3
+mongo connection created with mongodb://172.31.29.2:27017/ycsb?w=0
+[OVERALL], RunTime(ms), 3331
+[OVERALL], Throughput(ops/sec), 3002.101471029721
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 43
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 1.29090363254278
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 43
+[TOTAL_GC_TIME_%], Time(%), 1.29090363254278
+[READ], Operations, 7488
+[READ], AverageLatency(us), 373.97475961538464
+[READ], MinLatency(us), 137
+[READ], MaxLatency(us), 183679
+[READ], 95thPercentileLatency(us), 798
+[READ], 99thPercentileLatency(us), 1503
+[READ], Return=OK, 7488
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 3391.0
+[CLEANUP], MinLatency(us), 3390
+[CLEANUP], MaxLatency(us), 3391
+[CLEANUP], 95thPercentileLatency(us), 3391
+[CLEANUP], 99thPercentileLatency(us), 3391
+[INSERT], Operations, 2512
+[INSERT], AverageLatency(us), 133.2766719745223
+[INSERT], MinLatency(us), 26
+[INSERT], MaxLatency(us), 6575
+[INSERT], 95thPercentileLatency(us), 495
+[INSERT], 99thPercentileLatency(us), 586
+[INSERT], Return=OK, 2512
+
+#####################################################################
+
+#####################################################################
+
+#####################################################################
